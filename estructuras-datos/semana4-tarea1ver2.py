@@ -1,4 +1,4 @@
-#Leo elementos de una lista, elimina los repetidos y ordena
+#Leo elementos de un archivo de texto, elimino los repetidos y ordeno
 
 fh = open("estructuras-datos/texto.txt")
 tempList = fh.read().split()

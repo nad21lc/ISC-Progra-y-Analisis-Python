@@ -1,4 +1,4 @@
-#Leo elementos de una lista y elimino los repetidos
+#Leo elementos de un archivo de texto y elimino los repetidos
 
 fh = open("estructuras-datos/texto.txt")
 lst = fh.read().lstrip()
